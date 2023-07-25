@@ -45,6 +45,8 @@ http://10.0.0.1:8686/rtp/239.3.1.249:8001
 http://10.0.0.1:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院[高清]
 http://10.0.0.1:8686/rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",体育休闲[高清]
+http://10.0.0.1:8686/rtp/239.3.1.97:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
 http://10.0.0.1:8686/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院

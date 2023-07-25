@@ -71,6 +71,8 @@ http://10.0.0.1:8686/rtp/239.3.1.249:8001
 http://10.0.0.1:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",每日影院[高清]
 http://10.0.0.1:8686/rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-id="101" tvg-name="IPTV经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png" group-title="北京IPTV",IPTV经典电影
+http://10.0.0.1:8686/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
 http://10.0.0.1:8686/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院

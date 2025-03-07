@@ -131,19 +131,19 @@ http://10.0.0.1:8686/rtp/239.3.1.58:8156
 http://10.0.0.1:8686/rtp/239.3.1.215:4220
 #EXTINF:-1,tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://epg.v1.mk/logo/CGTN记录.png" group-title="央视",CGTN 记录[高清]
 http://10.0.0.1:8686/rtp/239.3.1.216:4220
-#EXTINF:-1,tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="其他",淘电影[高清]
+#EXTINF:-1,tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://epg.v1.mk/logo/淘电影.png" group-title="4k",淘电影[高清]
 http://10.0.0.1:8686/rtp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="https://epg.v1.mk/logo/热播剧场.png" group-title="其他",热播剧场
 http://10.0.0.1:8686/rtp/239.3.1.194:9020
-#EXTINF:-1,tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://epg.v1.mk/logo/经典电影.png" group-title="其他",经典电影
+#EXTINF:-1,tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://epg.v1.mk/logo/经典电影.png" group-title="4k",经典电影
 http://10.0.0.1:8686/rtp/239.3.1.195:9024
 #EXTINF:-1,tvg-id="武侠剧场" tvg-name="武侠剧场" tvg-logo="https://epg.v1.mk/logo/武侠剧场.png" group-title="其他",武侠剧场
 http://10.0.0.1:8686/rtp/239.3.1.90:4120
 #EXTINF:-1,tvg-id="喜剧影院" tvg-name="喜剧影院" tvg-logo="https://epg.v1.mk/logo/喜剧影院.png" group-title="其他",喜剧影院
 http://10.0.0.1:8686/rtp/239.3.1.91:4120
-#EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.v1.mk/logo/动作影院.png" group-title="其他",动作影院
+#EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.v1.mk/logo/动作影院.png" group-title="4k",动作影院
 http://10.0.0.1:8686/rtp/239.3.1.92:4120
-#EXTINF:-1,tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://epg.v1.mk/logo/家庭影院.png" group-title="其他",家庭影院
+#EXTINF:-1,tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://epg.v1.mk/logo/家庭影院.png" group-title="4k",家庭影院
 http://10.0.0.1:8686/rtp/239.3.1.93:4120
 #EXTINF:-1,tvg-id="星影Y" tvg-name="星影Y" tvg-logo="https://epg.v1.mk/logo/星影Y.png" group-title="其他",星影
 http://10.0.0.1:8686/rtp/239.3.1.94:4120
@@ -153,7 +153,7 @@ http://10.0.0.1:8686/rtp/239.3.1.95:8001
 http://10.0.0.1:8686/rtp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="半岛英语新闻ALJAZEERAENGLISH" tvg-name="半岛英语新闻ALJAZEERAENGLISH" tvg-logo="https://epg.v1.mk/logo/半岛英语新闻ALJAZEERAENGLISH.png" group-title="其他",英语新闻
 http://10.0.0.1:8686/rtp/239.3.1.16:8056
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="4k",金鹰卡通
 http://10.0.0.1:8686/rtp/239.3.1.51:9252
 #EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="山东",山东教育
 http://10.0.0.1:8686/rtp/239.3.1.52:4120
@@ -227,7 +227,7 @@ http://10.0.0.1:8686/rtp/239.3.1.87:4120
 http://10.0.0.1:8686/rtp/239.3.1.88:4120
 #EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.v1.mk/logo/足球.png" group-title="其他",足球
 http://10.0.0.1:8686/rtp/239.3.1.89:4120
-#EXTINF:-1,tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="其他",萌宠TV[高清]
+#EXTINF:-1,tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.v1.mk/logo/萌宠TV.png" group-title="4k",萌宠TV[高清]
 http://10.0.0.1:8686/rtp/239.3.1.102:8001
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="其他",睛彩竞技[高清]
 http://10.0.0.1:8686/rtp/239.3.1.125:8001
@@ -237,7 +237,7 @@ http://10.0.0.1:8686/rtp/239.3.1.126:8001
 http://10.0.0.1:8686/rtp/239.3.1.127:8001
 #EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="其他",睛彩广场舞[高清]
 http://10.0.0.1:8686/rtp/239.3.1.128:8001
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="4k",嘉佳卡通
 http://10.0.0.1:8686/rtp/239.3.1.147:9268
 #EXTINF:-1,tvg-id="北京房山有线" tvg-name="北京房山有线" tvg-logo="https://epg.v1.mk/logo/北京房山有线.png" group-title="其他",房山电视台[高清]
 http://10.0.0.1:8686/rtp/239.3.1.96:8001
@@ -259,11 +259,11 @@ http://10.0.0.1:8686/rtp/239.3.1.165:8001
 http://10.0.0.1:8686/rtp/239.3.1.166:8001
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.v1.mk/logo/中国交通.png" group-title="其他",中国交通[高清]
 http://10.0.0.1:8686/rtp/239.3.1.188:8001
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="其他",BRTV卡酷少儿[高清]
+#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="4k",BRTV卡酷少儿[高清]
 http://10.0.0.1:8686/rtp/239.3.1.189:8000
 #EXTINF:-1,tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="https://epg.v1.mk/logo/魅力时尚.png" group-title="其他",魅力时尚
 http://10.0.0.1:8686/rtp/239.3.1.196:9012
-#EXTINF:-1,tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://epg.v1.mk/logo/少儿动画.png" group-title="其他",少儿动画
+#EXTINF:-1,tvg-id="少儿动画" tvg-name="少儿动画" tvg-logo="https://epg.v1.mk/logo/少儿动画.png" group-title="4k",少儿动画
 http://10.0.0.1:8686/rtp/239.3.1.199:9000
 #EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",CGTN 西班牙语[高清]
 http://10.0.0.1:8686/rtp/239.3.1.217:4220

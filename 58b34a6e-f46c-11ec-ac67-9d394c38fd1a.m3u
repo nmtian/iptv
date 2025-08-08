@@ -82,7 +82,7 @@ http://10.0.0.1:8686/rtp/239.3.1.47:8164
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://10.0.0.1:8686/rtp/239.3.1.48:8160
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视
-http://10.0.0.1:8686/rtp/239.3.1.49:8188
+http://10.0.0.1:8686/rtp/239.3.1.201:8180
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.132:8012
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视[高清]
@@ -281,3 +281,9 @@ http://10.0.0.1:8686/rtp/239.3.1.238:8001
 http://10.0.0.1:8686/rtp/239.3.1.245:2000
 #EXTINF:-1,tvg-id="4k" tvg-name="4k" tvg-logo="https://epg.v1.mk/logo/4k.png" group-title="4k",4K超清[超清]
 http://10.0.0.1:8686/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="4k",深圳卫视[超清HDR]
+http://10.0.0.1:8686/rtp/239.3.1.202:2000
+#EXTINF:-1 tvg-name="4k",广东卫视[超清HDR]
+http://10.0.0.1:8686/rtp/239.3.1.203:2000
+#EXTINF:-1 tvg-name="4k",北京卫视4K频道
+http://10.0.0.1:8686/rtp/239.3.1.118:8001

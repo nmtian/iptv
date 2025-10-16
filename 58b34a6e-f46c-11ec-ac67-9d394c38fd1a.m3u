@@ -89,7 +89,7 @@ http://10.0.0.1:8686/rtp/239.3.1.166:8188
 http://10.0.0.1:8686/rtp/239.3.1.167:8192
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.201:8180
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视[高清]
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.133:8016
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.138:8044

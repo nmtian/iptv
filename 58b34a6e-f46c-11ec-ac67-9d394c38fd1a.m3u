@@ -81,14 +81,6 @@ http://10.0.0.1:8686/rtp/239.3.1.203:2000
 http://10.0.0.1:8686/rtp/239.3.1.144:3005
 #EXTINF:-1,tvg-id="爱上4k" tvg-name="爱上4k" tvg-logo="https://epg.v1.mk/logo/爱上4k.png" group-title="4k",爱上4K[超清]
 http://10.0.0.1:8686/rtp/239.3.1.236:2000
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视[高清]
-http://10.0.0.1:8686/rtp/239.3.1.169:8212
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视[高清]
-http://10.0.0.1:8686/rtp/239.3.1.166:8188
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视[高清]
-http://10.0.0.1:8686/rtp/239.3.1.167:8192
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视[高清]
-http://10.0.0.1:8686/rtp/239.3.1.201:8180
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.133:8016
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视[高清]
@@ -115,6 +107,14 @@ http://10.0.0.1:8686/rtp/239.3.1.211:8064
 http://10.0.0.1:8686/rtp/239.3.1.50:8184
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.168:8196
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视[高清]
+http://10.0.0.1:8686/rtp/239.3.1.169:8212
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视[高清]
+http://10.0.0.1:8686/rtp/239.3.1.166:8188
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视[高清]
+http://10.0.0.1:8686/rtp/239.3.1.167:8192
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视[高清]
+http://10.0.0.1:8686/rtp/239.3.1.201:8180
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://10.0.0.1:8686/rtp/239.3.1.26:8108
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视

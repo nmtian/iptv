@@ -39,27 +39,27 @@ http://10.0.0.1:8686/rtp/239.3.1.153:8136
 http://10.0.0.1:8686/rtp/239.3.1.184:8001
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17 农业农村[高清]
 http://10.0.0.1:8686/rtp/239.3.1.151:8144
-#EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.v1.mk/logo/CCTV4K超高清.png" group-title="4k",CCTV-4K[超清HDR]
+#EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.v1.mk/logo/CCTV4K超高清.png" group-title="央视",CCTV-4K[超清HDR]
 http://10.0.0.1:8686/rtp/239.3.1.245:2000
 #EXTINF:-1,tvg-id="4k" tvg-name="4k" tvg-logo="https://epg.v1.mk/logo/4k.png" group-title="4k",4K超清[超清]
 http://10.0.0.1:8686/rtp/239.3.1.249:8001
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV北京卫视[超清HDR]
-http://10.0.0.1:8686/rtp/239.3.1.22:8001
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV影视[高清]
+#EXTINF:-1,tvg-id="BRTV北京卫视" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV北京卫视[超清HDR]
+http://10.0.0.1:8686/rtp/239.3.1.118:8001
+#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV影视[高清]
 http://10.0.0.1:8686/rtp/239.3.1.158:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV新闻[高清]
+#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV新闻[高清]
 http://10.0.0.1:8686/rtp/239.3.1.159:8000
 #EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.v1.mk/logo/BRTV纪实科教.png" group-title="北京",BRTV纪实科教[高清]
 http://10.0.0.1:8686/rtp/239.3.1.115:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV财经[高清]
+#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV财经[高清]
 http://10.0.0.1:8686/rtp/239.3.1.116:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV生活[高清]
+#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV生活[高清]
 http://10.0.0.1:8686/rtp/239.3.1.117:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV体育休闲[高清]
+#EXTINF:-1,tvg-id="BRTV体育休闲" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV体育休闲[高清]
 http://10.0.0.1:8686/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV文艺[高清]
+#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV文艺[高清]
 http://10.0.0.1:8686/rtp/239.3.1.242:8000
-#EXTINF:-1,tvg-id="BRTV_ART" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV国际频道[高清]
+#EXTINF:-1,tvg-id="BRTV国际频道" tvg-name="BRTV_ART" tvg-logo="https://epg.v1.mk/logo/BRTV_ART.png" group-title="北京",BRTV国际频道[高清]
 http://10.0.0.1:8686/rtp/239.3.1.235:8000
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视
 http://10.0.0.1:8686/rtp/239.3.1.26:8108
